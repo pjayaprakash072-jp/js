@@ -1,0 +1,4 @@
+js variables -> var(can delcare or reasagin) , let(once declare , can reasign ) , const(one declared and asigned)
+
+
+DOM is pending.
