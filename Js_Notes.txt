@@ -1,0 +1,71 @@
+Javascripe:
+-----------
+    -> javascript is a scripting language as well as programmign language.
+    -> why we need js:
+        -> to build dynamic web applicatons.
+        -> to add functionalities to web applications
+        -> to maintain HTML and css we use js
+        -> to achiever DOM(Document Object Model)
+        -> to fetch DATA from the SERVER(api) or we can send data to the server(api).
+
+
+
+Tockens:
+-------
+    -> tokens are the smallest units in the code.
+        -> identifires
+            -> identifires are the names given to js code
+                -> variable name , class names , function names.
+        -> keyworks
+        -> laterals
+        -> operators
+        -> seperators
+        -> comments
+
+
+
+learn unresolved bug in javascript. null in premitive when we use typeof we get object.
+
+
+
+js strings;
+-----------
+    -> ways to create
+        -> using ""
+        -> using ''
+        -> using `` - called string template - it will prints as it is, and interpolation will be woked ie ${1+2}
+
+    -> string inbuilt methods:
+        -> length
+        -> slice()
+        -> splice()
+        -> replace()
+        -> replaceAll()
+        -> lastIndexOf()
+        -> indexOf()
+        -> includes() - used to search in string.
+        -> toUpperCase()
+        -> toLowerCase()
+        -> trim()
+        -> trimstart()
+        -> trimend()
+
+js objects
+----------
+    -> have key-value pairs.
+
+js arrays
+----------
+    -> Arrays are the linear ds used to store both homogeneous and heterogeneous data.
+    -> Arrays will follow indexes
+    -> homogeneous means similar type of data
+    
+
+    -> declaration
+        -> two ways
+            -> literal way ie - let arr =  [1,2,3,4,5,5,"54"];
+            -> using constructor array() - let arr = new Array("jaya" , "prakash);
+
+
+From youtube:
+-------------
